@@ -1,1 +1,4 @@
 To access the commit history just go to the reposiory and click commit and then the commit that you want to view, there you should be able to find a log of all the changes made.
+alternatively in the Git software you can type in the $ git log command
+To see the changes made to the commit you would type in $ git log --stat and the pluses and minuses would indicate addition to the file or deleting from it.
+Finally Head refers to the current branch.
